@@ -1,6 +1,6 @@
 import { FunctionComponent } from "react";
 import Image from "next/image";
-import TobiIMG from "../../../public/Tobi.jpg";
+import TobiIMG from "../../../public/Tobi.jpeg";
 import Container from "../container/Container";
 
 const Hero: FunctionComponent = () => {
